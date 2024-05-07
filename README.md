@@ -2,7 +2,7 @@
 A desktop application to notify user about stock prices over time
 
 ## How to run the application
-Download the bin/debug folder from [here]([StockPriceDesktop/bin/Debug](https://github.com/Blazecaller/StockPriceDesktop/tree/385c74d88b0e01c88163bfc88e30cb0d707b470b/StockPriceDesktop/bin/Debug)), then run the executable file. 
+Download the bin/debug folder from [here](https://download-directory.github.io?url=https://github.com/Blazecaller/StockPriceDesktop/tree/master/StockPriceDesktop/bin/Debug), then run the executable file. 
 
 Input any stock specifications and click on track button
 
