@@ -23,8 +23,7 @@ Refer to the preview below
 - [x] Do the tracking continuously on an async task until user stops it
 - [ ] Compare the stock's previous close value with the current value and update change rate X%
 - [ ] Divide query bar into two parts: Corporate tag, Stock market tag
-- [ ] Add a json configuration that gets updated by a list on the interface to keep recent stock names
 - [ ] TBD
 
 ## Application preview
-TODO: Add preview image
+![StockPriceDesktop_5XVoPsyiCg](https://github.com/Blazecaller/StockPriceDesktop/assets/55828485/0b8065b0-b3fd-4bf0-8d9b-03306a10939c)
